@@ -1,6 +1,6 @@
 # MachineLearning
 
-machine learning study
+Practice and Assignments of Machine Learning-Related Classes
 
 ## 1. Bayesian
 
